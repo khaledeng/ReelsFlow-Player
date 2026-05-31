@@ -1,0 +1,6 @@
+{
+  "name": "ReelsFlow",
+  "description": "Private offline vertical video player with immersive TikTok-style scrolling, local database favorites, metadata panel, and native storage utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
